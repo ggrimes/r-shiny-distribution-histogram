@@ -7,7 +7,6 @@ This repository contains a Shiny app for visualizing histograms of various proba
 
 
 ```{bash}
-#Copy code
 git clone https://github.com/yourusername/r-shiny-distribution-histogram.git
 cd r-shiny-distribution-histogram
 ```
